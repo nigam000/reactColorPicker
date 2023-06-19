@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/reactColorPicker/static/css/main.c061ade8.css",
-    "main.js": "/github.io/reactColorPicker/static/js/main.7cf8f69b.js",
-    "static/js/787.b3ca4345.chunk.js": "/github.io/reactColorPicker/static/js/787.b3ca4345.chunk.js",
-    "index.html": "/github.io/reactColorPicker/index.html",
-    "main.c061ade8.css.map": "/github.io/reactColorPicker/static/css/main.c061ade8.css.map",
-    "main.7cf8f69b.js.map": "/github.io/reactColorPicker/static/js/main.7cf8f69b.js.map",
-    "787.b3ca4345.chunk.js.map": "/github.io/reactColorPicker/static/js/787.b3ca4345.chunk.js.map"
+    "main.css": "/reactColorPicker/static/css/main.c061ade8.css",
+    "main.js": "/reactColorPicker/static/js/main.c8b37b0a.js",
+    "static/js/787.b3ca4345.chunk.js": "/reactColorPicker/static/js/787.b3ca4345.chunk.js",
+    "index.html": "/reactColorPicker/index.html",
+    "main.c061ade8.css.map": "/reactColorPicker/static/css/main.c061ade8.css.map",
+    "main.c8b37b0a.js.map": "/reactColorPicker/static/js/main.c8b37b0a.js.map",
+    "787.b3ca4345.chunk.js.map": "/reactColorPicker/static/js/787.b3ca4345.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c061ade8.css",
-    "static/js/main.7cf8f69b.js"
+    "static/js/main.c8b37b0a.js"
   ]
 }
